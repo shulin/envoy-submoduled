@@ -1,0 +1,5 @@
+bazel-*
+clang.bazelrc
+user.bazelrc
+.cache
+compile_commands.json
